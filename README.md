@@ -1,0 +1,2 @@
+# Covid-19 Tracker
+Developed a Static website in which information on the web page is provided via REST API which displays cases Country wise and State wise of India. The API retrieves data by country/state including population, the number of cases confirmed, recovered, critical cases, deaths, recovered per death ratio, cases per million population, and more. The data is updated multiple times a day. Tools used were HTML, CSS, JavaScript, Bootstrap,Php.
