@@ -37,13 +37,13 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-        <h1><a href="index.html" class="scrollto"><span>C</span>ovid-19 India</a></h1>
+        <h1><a href="index.php" class="scrollto"><span>C</span>ovid-19 India</a></h1>
        
       </div>
 
       <nav id="nav-menu-container">
         <ul class="nav-menu">
-          <li class="menu-active"><a href="index.html">Home</a></li>
+          <li class="menu-active"><a href="index.php">Home</a></li>
           <li><a href="#features">Symptoms</a></li>
           <li class="menu-has-children"><a href="">Statistics</a>
             <ul>
